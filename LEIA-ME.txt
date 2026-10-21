@@ -1,0 +1,51 @@
+UNIVERSO TECH — PROJETO ACADÊMICO FRONT-END
+================================================
+
+ARQUIVOS
+- index.html: página inicial
+- tecnologias.html: conteúdo sobre desenvolvimento web, IA e segurança digital
+- sobre.html: objetivos e decisões de desenvolvimento
+- css/style.css: estilos personalizados
+- LEIA-ME.txt: estas instruções
+
+TECNOLOGIAS
+- HTML5 semântico
+- CSS3 com media queries e estilos responsivos
+- Bootstrap 5.3.3 via CDN (navbar responsiva, grid, accordion e botões)
+
+COMO TESTAR LOCALMENTE
+1. Extraia a pasta do ZIP.
+2. Abra index.html no navegador.
+3. Teste todos os links do menu e os links entre conteúdos.
+4. Em tecnologias.html, teste as perguntas frequentes (accordion).
+5. Para simular celular/tablet, pressione F12 no Chrome e ative a barra de dispositivos.
+6. O Bootstrap é carregado pela internet; para testar seus componentes, mantenha conexão ativa.
+
+HOSPEDAGEM SUGERIDA: GITHUB PAGES
+1. Crie ou entre na sua conta GitHub.
+2. Crie um repositório público, por exemplo: universo-tech.
+3. Envie os três arquivos HTML, a pasta css e este LEIA-ME.txt para a raiz do repositório.
+4. Abra Settings > Pages.
+5. Em Build and deployment, selecione Deploy from a branch.
+6. Escolha a branch main e a pasta /(root), depois salve.
+7. Aguarde a publicação e abra a URL exibida na seção Pages.
+8. Teste a URL publicada: páginas, menu, accordion e visual em celular.
+A URL costuma ter formato https://SEU-USUARIO.github.io/universo-tech/; use a URL real exibida pelo GitHub, não copie esse exemplo literalmente.
+
+ENTREGA NO MOODLE
+- Envie um ZIP contendo a pasta do projeto e todos os arquivos.
+- Envie também o documento complementar (PDF, TXT ou DOCX) com:
+  * URL real do site hospedado;
+  * breve descrição do tema;
+  * nome do estudante ou da dupla.
+
+DESCRIÇÃO SUGERIDA PARA O DOCUMENTO
+Tema: Universo da Tecnologia.
+Descrição: O Universo Tech é um website educativo que apresenta conceitos introdutórios de desenvolvimento web, inteligência artificial e segurança digital. O projeto foi desenvolvido com HTML5, CSS3 e Bootstrap, priorizando organização semântica, identidade visual consistente, navegação intuitiva, acessibilidade e responsividade.
+
+IMPORTANTE ANTES DE ENTREGAR
+- Preencha seu nome no documento complementar.
+- Publique e teste o site; o endereço de exemplo acima não é uma URL publicada.
+- Confirme que os arquivos estão na raiz do repositório para que os caminhos relativos funcionem.
+- O Bootstrap vem de CDN, então os componentes dependem de conexão com a internet.
+- Revise os textos e personalize o projeto para refletir seu próprio trabalho e o que foi visto na disciplina.

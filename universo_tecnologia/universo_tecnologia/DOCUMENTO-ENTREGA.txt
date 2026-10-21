@@ -1,0 +1,14 @@
+DOCUMENTO COMPLEMENTAR — ATIVIDADE INTEGRADORA
+Desenvolvimento Front-end
+
+Nome da estudante: Sofia Sampaio Duarte
+
+Tema do website: Universo da Tecnologia
+
+Descrição:
+O Universo Tech é um website educativo que apresenta conceitos introdutórios de desenvolvimento web, inteligência artificial e segurança digital. O projeto foi desenvolvido com HTML5, CSS3 e Bootstrap, priorizando organização semântica, identidade visual consistente, navegação intuitiva, acessibilidade e responsividade.
+
+URL do site hospedado:
+[COLE AQUI A URL REAL DEPOIS DE PUBLICAR O SITE]
+
+Atenção: substitua o campo acima pela URL real do site publicado antes de enviar este documento no Moodle.
